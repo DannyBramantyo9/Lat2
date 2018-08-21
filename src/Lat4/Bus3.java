@@ -12,9 +12,6 @@ package Lat4;
 public class Bus3 {
     public int penumpang;
     public double maxpenumpang;
-    public double counter;
-    public double penumpangBaru;
-    
     public Bus3(int maxpenumpang){
         this.maxpenumpang=maxpenumpang;
         penumpang=0;
